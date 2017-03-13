@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "authors": [
+    "Ali",
+    "Hassan <hassanali2@kpmg.com>"
+  ],
+  "description": "",
+  "main": "test.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
